@@ -1,0 +1,1 @@
+This project attempts to re-create a sketch pad/etch-a-sketh in a browser using HTML/CSS and Javascript methods.  DOM manipulation will also be necessary for this project to succeed.
